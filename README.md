@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | MCA Student at HBTU | Passionate about turning data into decisions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Data+Analyst+in+the+Making;SQL+%7C+Python+%7C+Power+BI;Always+Learning+%F0%9F%93%9A;Open+to+Internships+%26+Jobs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Always+Learning+%F0%9F%93%9A;Open+to+Internships+%26+Jobs!" alt="Typing SVG" />
 </p>
 
 ---
