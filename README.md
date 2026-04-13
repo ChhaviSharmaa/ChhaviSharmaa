@@ -36,18 +36,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-### 🛒 [Walmart Sales Analysis](https://github.com/ChhaviSharmaa/ChhaviSharmaa)
-> MySQL | 10,051 transactions | 100 Branches | 2019–2023
-
-- Analyzed sales data across 100 Walmart branches over 5 years
-- Used **Window Functions, CTEs, Subqueries** to answer 12 business questions
-- Key Finding: Home & Lifestyle + Fashion = **81% of total revenue**
-- Identified **WALM045** with steepest revenue decline of **62.62%** (2022→2023)
-- Discovered Health & Beauty is highest rated but contributes only **3.86% of revenue**
-
----
 
 
 
