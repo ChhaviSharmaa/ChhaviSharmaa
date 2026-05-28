@@ -1,46 +1,57 @@
 <h1 align="center">Hi 👋, I'm Chhavi Sharma</h1>
-<h3 align="center">Aspiring Data Analyst | MCA Student at HBTU | Passionate about turning data into decisions</h3>
+<h3 align="center">MCA Student at HBTU | Tech Enthusiast | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Always+Learning+%F0%9F%93%9A;Open+to+Internships+%26+Jobs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Always+Learning+📚;Building+New+Things+🚀;Open+to+Opportunities!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing **MCA from HBTU (Harcourt Butler Technical University)**
-- 📊 Passionate about **Data Analysis, Business Intelligence & SQL**
-- 🔍 Currently working on **Walmart Sales Analysis** using MySQL
-- 🌱 Always learning new tools and techniques in the data space
-- 💼 Actively looking for **Internships & Full-time opportunities** in Data Analytics
-- 📬 Reach me at: **chhavisharma668@gmail.com**
+* 🎓 Pursuing **Master of Computer Applications (MCA)** from **HBTU**
+* 💡 Passionate about technology and continuous learning
+* 🚀 Enjoy exploring new tools, technologies, and ideas
+* 🌱 Always working on improving my technical and problem-solving skills
+* 🤝 Interested in collaborating, learning, and growing within the tech community
+* 💼 Open to internships, projects, and new opportunities
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**What I work with:**
-- 🗄️ **SQL / MySQL** — Joins, Window Functions, CTEs, Subqueries, Aggregations
-- 🐍 **Python** — Pandas, NumPy, data cleaning & analysis
-- 📊 **Power BI / Excel** — Dashboards, charts, pivot tables
-- 🔢 **Statistics** — Descriptive analysis, trend analysis
+---
+
+## 🌱 Currently Learning
+
+* Software Development Concepts
+* Problem Solving
+* Databases and Applications
+* Modern Development Practices
 
 ---
 
+## 🎯 Goals
 
+* Continuously improve my technical skills
+* Build meaningful projects
+* Learn from real-world experiences
+* Contribute to the tech community
+* Grow as a developer and professional
 
+---
 
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chhavi-sharma-88032723b" target="_blank">
@@ -60,19 +71,6 @@
   <img src="https://komarev.com/ghpvc/?username=ChhaviSharmaa&label=Profile%20Views&color=6A0DAD&style=flat" alt="profile views" />
 </p>
 
-<p align="center">⭐ <i>If you find my work helpful, consider giving it a star!</i> ⭐</p>## Hi there 👋
-
-<!--
-**ChhaviSharmaa/ChhaviSharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+⭐ Curious mind • Continuous learner • Future software professional
+</p>
