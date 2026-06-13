@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Always+Learning+📚;Building+New+Things+🚀;Open+to+Opportunities!" alt="Typing SVG" />
-</p>
+
 
 ---
 
