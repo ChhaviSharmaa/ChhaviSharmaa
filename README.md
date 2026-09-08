@@ -9,7 +9,7 @@
 ## 👩‍💻 About Me
 
 - 💻 Interested in Software Development and Backend Engineering
-- 🌱 Working with Python, SQL, and APIs
+- 🌱 Working with Java,Springboot,Python, SQL, and APIs
 - 🧠 Data Structures & Algorithms
 
 
